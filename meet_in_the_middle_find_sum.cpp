@@ -2,9 +2,9 @@
 #include <set>
 #include <sstream>
 #include <vector>
+#include <unordered_map>
 
 using namespace std;
-
 vector<set<int>> w_set;
 
 void findSubSet(int n) {
@@ -17,6 +17,7 @@ void findSubSet(int n) {
                         }
                 }
                 w_set.push_back(t_set);
+                w_set.fik
         }
 }
 
