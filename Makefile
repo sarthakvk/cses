@@ -1,5 +1,5 @@
 SHELL = /usr/bin/env bash
-.PHONEY: clean
+.PHONEY: $(file)
 
 CC = g++
 CCFLAGS = -O2 -std=c++17
