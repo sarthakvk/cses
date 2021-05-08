@@ -1,3 +1,5 @@
+//Your task is to divide the numbers 1,2,…,n into two sets of equal sum.
+
 #include <bits/stdc++.h>
 
 using namespace std;
